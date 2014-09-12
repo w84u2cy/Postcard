@@ -12,6 +12,8 @@
 		6C36CC8819C2E0DC00904047 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6C36CC8619C2E0DC00904047 /* Main.storyboard */; };
 		6C36CC8A19C2E0DC00904047 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6C36CC8919C2E0DC00904047 /* Images.xcassets */; };
 		6C36CC9619C2E0DC00904047 /* Tutorial___PostcardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C36CC9519C2E0DC00904047 /* Tutorial___PostcardTests.swift */; };
+		6C36CCA019C2E14200904047 /* pc004276.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6C36CC9F19C2E14200904047 /* pc004276.jpg */; };
+		6C36CCA219C2E2B500904047 /* 8240214-australia--circa-1960s-a-stamp-printed-in-australia-shows-queen-elizabeth-ii-circa-1960s.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6C36CCA119C2E2B500904047 /* 8240214-australia--circa-1960s-a-stamp-printed-in-australia-shows-queen-elizabeth-ii-circa-1960s.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +36,8 @@
 		6C36CC8F19C2E0DC00904047 /* Tutorial - PostcardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Tutorial - PostcardTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6C36CC9419C2E0DC00904047 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6C36CC9519C2E0DC00904047 /* Tutorial___PostcardTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Tutorial___PostcardTests.swift"; sourceTree = "<group>"; };
+		6C36CC9F19C2E14200904047 /* pc004276.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pc004276.jpg; sourceTree = "<group>"; };
+		6C36CCA119C2E2B500904047 /* 8240214-australia--circa-1960s-a-stamp-printed-in-australia-shows-queen-elizabeth-ii-circa-1960s.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "8240214-australia--circa-1960s-a-stamp-printed-in-australia-shows-queen-elizabeth-ii-circa-1960s.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,6 +91,8 @@
 		6C36CC8019C2E0DC00904047 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				6C36CCA119C2E2B500904047 /* 8240214-australia--circa-1960s-a-stamp-printed-in-australia-shows-queen-elizabeth-ii-circa-1960s.jpg */,
+				6C36CC9F19C2E14200904047 /* pc004276.jpg */,
 				6C36CC8119C2E0DC00904047 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -190,6 +196,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				6C36CC8819C2E0DC00904047 /* Main.storyboard in Resources */,
+				6C36CCA019C2E14200904047 /* pc004276.jpg in Resources */,
+				6C36CCA219C2E2B500904047 /* 8240214-australia--circa-1960s-a-stamp-printed-in-australia-shows-queen-elizabeth-ii-circa-1960s.jpg in Resources */,
 				6C36CC8A19C2E0DC00904047 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
